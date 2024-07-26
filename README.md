@@ -30,7 +30,7 @@ The strategy utilizes two moving averages:
 2. Install the required packages
    ```bash
    pip install pandas numpy matplotlib
-### Usage 
+## Usage 
 1. Place your historical data in a CSV file named NVDA.csv. Ensure it contains 'Date' and 'Close' columns.
 2. Run backtesting notebook.
 3. The results will be visualized in a plot showing:
